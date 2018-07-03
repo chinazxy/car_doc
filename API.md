@@ -1,5 +1,5 @@
 # 停车管理接口文档
-### url：https://car.iweizhu.com.cn/api/
+### url：https://car.iweizhu.com.cn/app/
 
 **[AUTH](#AUTH)**
 * [注册](#注册)
