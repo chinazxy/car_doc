@@ -238,7 +238,10 @@
 {
     "message": "暂未查询到该车的停车信息",
     "code": 200,
-    "data": []
+    "data": {
+        "car_num" => "车牌号",
+        'have_bill' => fasle
+    }
 }
 ```
 ```
@@ -250,7 +253,8 @@
         "in_time" => "进入时间",
         "out_time" => "出去时间",
         "park_time" => "停车时间",
-        "money" => '0.00'
+        "money" => '0.00',
+        'have_bill' => true
 	}
 }
 ```
